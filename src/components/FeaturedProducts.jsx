@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import featureProducts from '../data/featureProducts';
+import featureProducts from '../data/FeatureProducts';
 
 function FeaturedProducts() {
   const [selectedProduct, setSelectedProduct] = useState(null);
