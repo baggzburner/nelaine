@@ -10,49 +10,49 @@ const NewArrivalsinfo = [
     {
       id: 1,
       name: 'palazzo pants',
-      description: 'Perfect blend of comfort and luxury for your chill days.',
+      description: 'Top Kshs 800 and Pants Kshs 850',
       price: 1650,
       image: p4
     },
     {
       id: 2,
       name: 'palazzo pants',
-      description: 'Stylish enough to wear out, comfy enough to sleep in.',
+      description: 'Top Kshs 800 and Pants Kshs 850',
       price: 1650,
       image: p5
     },
     {
       id: 3,
       name: 'palazzo pants',
-      description: 'A soft pastel robe to wrap yourself in elegance.',
+      description: 'Top Kshs 800 and Pants Kshs 850',
       price: 1650,
       image: p6
     },
     {
       id: 2,
       name: 'palazzo pants',
-      description: 'Stylish enough to wear out, comfy enough to sleep in.',
+      description: 'Top Kshs 800 and Pants Kshs 850',
       price: 1650,
       image: p7
     },
     {
       id: 2,
       name: 'palazzo pants',
-      description: 'Stylish enough to wear out, comfy enough to sleep in.',
+      description: 'Top Kshs 800 and Pants Kshs 850',
       price: 1650,
       image: p8
     },
     {
       id: 2,
       name: 'palazzo pants',
-      description: 'Stylish enough to wear out, comfy enough to sleep in.',
+      description: 'Top Kshs 800 and Pants Kshs 850',
       price: 1650,
       image: p9
     },
     {
       id: 2,
       name: 'palazzo pants',
-      description: 'Stylish enough to wear out, comfy enough to sleep in.',
+      description: 'Top Kshs 800 and Pants Kshs 850',
       price: 1650,
       image: p10
     }

@@ -7,12 +7,12 @@ function Hero() {
     <div className="container-fluid py-5" style={styles.heroSection}>
       <div className="row align-items-center">
         {/* Left: Text Content */}
-        <div className="col-md-6 text-center text-md-start">
-          <h1 style={styles.heading}>Experience True Comfort & Elegance</h1>
+        <div className="col-md-6 text-center text-md-start px-5">
+          <h1 style={styles.heading}>Experience <span className='text-dark'>True Comfort</span> & Elegance</h1>
           <p style={styles.paragraph}>
             Discover luxurious loungewear that makes you feel confident, cozy, and effortlessly stylish—only at NelaineComfyWear.
           </p>
-          <a href="#shop" className="btn" style={styles.button}>Shop Now</a>
+          <a href="shop_now" className="btn" style={styles.button}>Shop Now</a>
         </div>
 
         {/* Right: Image */}

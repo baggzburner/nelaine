@@ -22,7 +22,7 @@ function Footer() {
               <ul className="list-unstyled">
                 <li><a href="/" className="text-white text-decoration-none">Home</a></li>
                 <li><a href="/shop_now" className="text-white text-decoration-none">Shop</a></li>
-                <li><a href="/about" className="text-white text-decoration-none">About Us</a></li>
+                <li><a href="/about" className="text-white text-decoration-none">About</a></li>
                 <li><a href="/contact" className="text-white text-decoration-none">Contact</a></li>
               </ul>
             </div>
@@ -30,12 +30,12 @@ function Footer() {
             {/* Contact Info */}
             <div className="col-md-3 mb-4">
               <h5>Contact Us</h5>
-              <p><FaPhone className="me-2" /> +254 700 000 000</p>
+              <p><FaPhone className="me-2" /> +254 726 923 896</p>
               <p><FaEnvelope className="me-2" /> nelaine@sales.com</p>
               <div className="d-flex gap-2 mt-2">
                 <a href="#" className="text-white"><FaFacebookF /></a>
                 <a href="#" className="text-white"><FaTwitter /></a>
-                <a href="#" className="text-white"><FaInstagram /></a>
+                <a href="https://instagram.com/nelainecomfywear" className="text-white"><FaInstagram /></a>
               </div>
             </div>
 

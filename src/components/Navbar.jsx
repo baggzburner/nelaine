@@ -2,6 +2,7 @@ import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import logo from '../assets/logo.png'; // Adjust if your path is different
+import '../styles/navbar_styles.css'
 
 function Navbar() {
   return (
@@ -23,17 +24,17 @@ function Navbar() {
         </button>
         <div className="collapse navbar-collapse justify-content-end" id="navbarNav">
           <ul className="navbar-nav">
-            <li className="nav-item">
-              <a className="nav-link" href="/" style={styles.link}>Home</a>
+            <li className="nav-item fw-bold">
+              <a className="nav-link active" href="/" style={styles.link}>Home</a>
             </li>
-            <li className="nav-item">
+            <li className="nav-item fw-bold">
               <a className="nav-link" href="shop_now" style={styles.link}>Shop</a>
             </li>
-            <li className="nav-item">
-              <a className="nav-link" href="#" style={styles.link}>About</a>
+            <li className="nav-item fw-bold">
+              <a className="nav-link" href="about" style={styles.link}>About</a>
             </li>
-            <li className="nav-item">
-              <a className="nav-link" href="#" style={styles.link}>Contact</a>
+            <li className="nav-item fw-bold">
+              <a className="nav-link" href="contact" style={styles.link}>Contact</a>
             </li>
           </ul>
         </div>

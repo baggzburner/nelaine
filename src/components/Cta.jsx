@@ -5,7 +5,8 @@ function Cta() {
     <div className='bg-dark text-light text-center py-4'>
     <h1 className='my-5'>Make Your Order</h1>
     <p className='my-5'>Quality, Comfort and Style are our key focus factors</p>
-    <button className='btn btn-warning my-3 fw-bold'>Make Your Order</button>
+    <button className='btn btn-warning mt-3 mb-5 fw-bold'
+    >Make Your Order</button>
 
     </div>
   )

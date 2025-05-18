@@ -1,0 +1,5 @@
+a:hover,
+a:focus{
+  font-weight: 900; 
+  border-bottom: 3px solid gray;
+}
