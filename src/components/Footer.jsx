@@ -30,7 +30,7 @@ function Footer() {
             {/* Contact Info */}
             <div className="col-md-3 mb-4">
               <h5>Contact Us</h5>
-              <p><FaPhone className="me-2" /> +254 726 923 896</p>
+              <p><FaPhone className="me-2" /> +2547123456789</p>
               <p><FaEnvelope className="me-2" /> nelaine@sales.com</p>
               <div className="d-flex gap-2 mt-2">
                 <a href="#" className="text-white"><FaFacebookF /></a>

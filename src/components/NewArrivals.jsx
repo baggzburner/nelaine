@@ -66,7 +66,7 @@ function NewArrivals() {
                   <p><strong>Price:</strong> ${selectedProduct.price}</p>
                   <hr />
                   <p><strong>Seller:</strong> NelaineComfyWear</p>
-                  <p><strong>Phone:</strong> +254 726923896</p>
+                  <p><strong>Phone:</strong> +2547123456789</p>
                   <p><strong>Email:</strong> nelaine@sales.com</p>
                 </>
               )}

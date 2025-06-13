@@ -32,7 +32,7 @@ function Contact() {
         <div className="col-md-6 mb-4">
           <div className="mb-3">
             <FaPhone className="me-2" />
-            <strong>Phone:</strong> +254 726 923 896
+            <strong>Phone:</strong> +2547123456789
           </div>
           <div className="mb-3">
             <FaEnvelope className="me-2" />
